@@ -14,6 +14,11 @@ _global_script_classes=[ {
 "language": "GDScript",
 "path": "res://Game/Combat/AIStrategyBase.gd"
 }, {
+"base": "ItemBase",
+"class": "AnalBeads",
+"language": "GDScript",
+"path": "res://Modules/AnalBeadsNiki/AnalBeads.gd"
+}, {
 "base": "Orifice",
 "class": "AnusOrifice",
 "language": "GDScript",
@@ -1711,6 +1716,7 @@ _global_script_classes=[ {
 } ]
 _global_script_class_icons={
 "AIStrategyBase": "",
+"AnalBeads": "",
 "AnusOrifice": "",
 "AttachmentProxy": "",
 "Attack": "",
